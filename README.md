@@ -34,7 +34,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 - Sarkozy + Bruni to stand trial: Witness-tampering case, 11 defendants; trial Nov-Dec 2027, up to 10 years.
 - Germany gets Ukraine Delta access: Berlin first to access Kyiv's Delta battlefield management system.
 - Gaza: Hamas security chief killed: Tuesday strikes kill Hamas security chief Naeem Abu Nahel and six others.
-- UNRWA worker killed (mon): Adel al-Helo killed at a Jabalia well on Monday; 397 UNRWA staff killed in the war.
+- UNRWA worker killed (Mon): Adel al-Helo killed at a Jabalia well on Monday; 397 UNRWA staff killed in the war.
 - Iraq PM takes Kurdish oilfields: Federal oil ministry to run fields under Kurdish security control, state media say.
 - Hormuz: three tankers hit mines: IRGC says three tankers hit mines in the strait amid a US escort.
 - Iran: singer given 74 lashes: Parastoo Ahmadi punished; Tehran rules out talks until the US meets seven conditions.
@@ -60,10 +60,28 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 - US envoy unsure on Israel aid end: Envoy 'not certain' military aid to Israel will end this year as Trump promised.
 - Colombia car bomb: Blast destroys buildings in Villavicencio; no confirmed victims.
 - Mexico to try 'El Chapo Isidro': Mexico to prosecute the cartel leader despite a US extradition request.
-- Drc: fighting traps Ebola teams: Heavy fighting in Ituri traps Ebola responders for over 24 hours, WHO says.
+- DRC: fighting traps Ebola teams: Heavy fighting in Ituri traps Ebola responders for over 24 hours, WHO says.
 - Somalia, Uganda hit al-Shabaab: Operations step up as withdrawal begins.
-- Guterres: ai-risk framework in a year: UN chief calls for a multilateral framework on AI risks.
+- Guterres: AI-risk framework in a year: UN chief calls for a multilateral framework on AI risks.
 - FDA approves first limb-girdle drug: BridgeBio's drug is the first treatment for limb-girdle muscular dystrophy.
+
+## Sources and timeline
+
+Per-story sources include Reuters, AP, AFP, BBC, Al Jazeera, Bloomberg, Wall Street Journal, Yonhap, Nikkei Indexes, Focus Taiwan, CNA, MLex, The Edge, CoinDesk, Finnhub, TradingView, stockmarketwatch, BBN Times, Euro Weekly News, and UN News. Market figures use one consistent set (Reuters/AP closes); the 10-year Treasury yield and VIX are omitted — neither was verified for Tuesday's close. Zacks.com was not used: its Nov 24 page shows Monday's closes mislabelled as Tuesday's.
+
+UTC timeline (Tue 24 Nov 2026, key moments):
+
+- ~00:52 UTC: US blacklists Megaspeed (reported 23 Nov 16:52 PST).
+- ~01:32 UTC: Nepal quake 5.6 (07:17 NPT, Taplejung).
+- Early hours UTC: UAE bus crash, Al Watan Road, Ras al-Khaimah (toll 11, later revised to 13).
+- ~01:00–07:00 UTC: Asia closes — Taiex +9.0%, Kospi +6.3%, Nikkei +3.9% (record Taiex points gain).
+- ~04:15 UTC: Al Jazeera reports Monday's Gaza strikes (UNRWA worker killed); Reuters confirms.
+- ~10:00–13:00 UTC: Hasina Dec 16 return plan (Reuters exclusive); Malaysia parliament announcement (Anwar, 6,803 returns).
+- ~14:30 UTC: US markets open lower; WSJ tariff report circulates (TradingView 15:06 UTC: tariffs on China, EU + 14 economies).
+- ~15:00 UTC: Conference Board consumer confidence 103.3 (forecast 92.2).
+- ~18:35 UTC: Reuters — Sarkozy + Bruni ordered to stand trial.
+- ~21:00 UTC: US close — Dow 50,018.70 +0.85%, S&P 7,201.09 -0.50%, Nasdaq 23,733.54 -1.48%, SOX -7.88%.
+- ~22:46 UTC: MLex — Huawei guilty on 10 of 12 counts (Brooklyn jury).
 
 ## License
 
